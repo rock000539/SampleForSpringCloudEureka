@@ -22,4 +22,9 @@
 			<scope>test</scope>
 		</dependency>
 	</dependencies>
+
+	<modules>
+		<module>springCloudClient</module>
+		<module>springCloudServe</module>
+	</modules>
 </project>
